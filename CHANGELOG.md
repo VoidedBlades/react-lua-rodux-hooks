@@ -1,3 +1,7 @@
+## 0.4.0
+
+- Changed roact to use react-lua. This specific package does not work with roact/roact17 anymore and only functions with react-lua
+
 ## 0.3.1
 
 - Fix selectors not properly updating selector function enclosures
