@@ -1,8 +1,8 @@
 [package]
 name = "voidedblades/react-lua-rodux-hooks"
-description = "Roact hooks for Rodux using react-lua"
+description = "hooks for Rodux using react-lua"
 authors = ["SolarHorizon"]
-version = "0.4.0"
+version = "0.4.1"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
 license = "MIT"
