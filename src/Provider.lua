@@ -1,4 +1,4 @@
-local Roact = require(script.Parent.Parent.Roact)
+local Roact = require(script.Parent.Parent.React)
 local Context = require(script.Parent.Context)
 
 local e = Roact.createElement

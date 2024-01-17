@@ -1,3 +1,6 @@
+# Modified version
+This is a modified version to support react-lua. If you do not use react-lua please use https://github.com/SolarHorizon/rodux-hooks
+
 # rodux-hooks
 
 A very simple bridge between Roact and Rodux via [roact-hooks](https://github.com/Kampfkarren/roact-hooks), inspired by [react-redux](https://react-redux.js.org/api/hooks).
