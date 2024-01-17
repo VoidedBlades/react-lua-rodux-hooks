@@ -1,9 +1,11 @@
 # Modified version
 This is a modified version to support react-lua. If you do not use react-lua please use https://github.com/SolarHorizon/rodux-hooks
 
+You can find this package on wally and its latest uploaded version by running `wally search voidedblades/react-lua-rodux-hooks`
+
 # rodux-hooks
 
-A very simple bridge between Roact and Rodux via [roact-hooks](https://github.com/Kampfkarren/roact-hooks), inspired by [react-redux](https://react-redux.js.org/api/hooks).
+A very simple bridge between React and Rodux via the provided react hooks, inspired by [react-redux](https://react-redux.js.org/api/hooks).
 
 # API
 
